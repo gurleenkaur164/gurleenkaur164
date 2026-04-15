@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Gurleen Kaur 👋
 
-<!--
-**gurleenkaur164/gurleenkaur164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Electronics & Computer Engineering @ Thapar  
+💡 AI/ML Enthusiast | Future Product Manager  
+🚀 Building cool stuff with LLMs & Machine Learning  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+- 🤖 Exploring **LLMs, Agentic AI & Multimodal Systems**
+- 📊 Love working on **ML, NLP & Data-driven applications**
+- ⚡ Solved **400+ LeetCode problems**
+- 🧠 Strong in **DSA, OS & Backend Systems**
+
+
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+https://img.shields.io/badge/Python?labelColor=blue
+https://img.shields.io/badge/C%2B%2B?labelColor=Green
+https://img.shields.io/badge/JavaScript?labelColor=pink
+
+`Python` `C++` `JavaScript`
+
+### 🤖 AI / ML
+`Machine Learning` `NLP` `Deep Learning` `Computer Vision`  
+`LangChain` `HuggingFace` `Ollama`
+
+### ⚙️ Backend & Tools
+`FastAPI` `REST APIs` `MongoDB` `Git` `Streamlit`
+
+### 🌐 Frontend
+`React.js`
+
+
+
+## 🚀 Projects
+
+### 🔹 AI Website Guardian
+- Real-time AI system to detect user intent using LLM agents
+
+### 🔹 Debator AI
+- Multi-agent debate system using CrewAI
+
+### 🔹 Career Path Recommender
+- Full-stack app using FastAPI + Streamlit + NLP
+
+### 🔹 Stress Detection System
+- ML model using TF-IDF for stress classification
+
+
+
+## 🏆 Achievements
+- 🥈 Saturnalia Hackathon 2024 (Runner-up)
+- 🏆 National Winner – Toycathon (Govt. of India)
+- 🧠 400+ LeetCode problems solved
+
+
+
+## 📫 Connect With Me
+- LinkedIn: [Add your link]
+- Email: gk0370435@gmail.com
