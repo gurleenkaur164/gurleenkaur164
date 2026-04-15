@@ -17,9 +17,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-https://img.shields.io/badge/Python?labelColor=blue
-https://img.shields.io/badge/C%2B%2B?labelColor=Green
-https://img.shields.io/badge/JavaScript?labelColor=pink
+
 
 `Python` `C++` `JavaScript`
 
