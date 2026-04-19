@@ -6,7 +6,7 @@
 
 
 
-## 🚀 About Me
+##  About Me
 - 🤖 Exploring **LLMs, Agentic AI & Multimodal Systems**
 - 📊 Love working on **ML, NLP & Data-driven applications**
 - ⚡ Solved **400+ LeetCode problems**
@@ -14,26 +14,26 @@
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 
 `Python` `C++` `JavaScript`
 
-### 🤖 AI / ML
+###  AI / ML
 `Machine Learning` `NLP` `Deep Learning` `Computer Vision`  
 `LangChain` `HuggingFace` `Ollama`
 
-### ⚙️ Backend & Tools
+###  Backend & Tools
 `FastAPI` `REST APIs` `MongoDB` `Git` `Streamlit`
 
-### 🌐 Frontend
+###  Frontend
 `React.js`
 
 
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 AI Website Guardian
 - Real-time AI system to detect user intent using LLM agents
@@ -49,13 +49,13 @@
 
 
 
-## 🏆 Achievements
+##  Achievements
 - 🥈 Saturnalia Hackathon 2024 (Runner-up)
 - 🏆 National Winner – Toycathon (Govt. of India)
 - 🧠 400+ LeetCode problems solved
 
 
 
-## 📫 Connect With Me
-- LinkedIn: [Add your link]
+##  Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gurleen-kaur-60b966278/
 - Email: gk0370435@gmail.com
