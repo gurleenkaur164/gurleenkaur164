@@ -1,16 +1,16 @@
 # Hi, I'm Gurleen Kaur 👋
 
-🎓 B.E. Electronics & Computer Engineering @ Thapar  
-💡 AI/ML Enthusiast | Future Product Manager  
-🚀 Building cool stuff with LLMs & Machine Learning  
+ B.E. Electronics & Computer Engineering @ Thapar  
+ AI/ML Enthusiast | Future Product Manager  
+ Building cool stuff with LLMs & Machine Learning  
 
 
 
 ##  About Me
-- 🤖 Exploring **LLMs, Agentic AI & Multimodal Systems**
-- 📊 Love working on **ML, NLP & Data-driven applications**
-- ⚡ Solved **400+ LeetCode problems**
-- 🧠 Strong in **DSA, OS & Backend Systems**
+-  Exploring **LLMs, Agentic AI & Multimodal Systems**
+-  Love working on **ML, NLP & Data-driven applications**
+-  Solved **400+ LeetCode problems**
+-  Strong in **DSA, OS & Backend Systems**
 
 
 
@@ -50,9 +50,9 @@
 
 
 ##  Achievements
-- 🥈 Saturnalia Hackathon 2024 (Runner-up)
-- 🏆 National Winner – Toycathon (Govt. of India)
-- 🧠 400+ LeetCode problems solved
+-  Saturnalia Hackathon 2024 (Runner-up)
+-  National Winner – Toycathon (Govt. of India)
+-  400+ LeetCode problems solved
 
 
 
