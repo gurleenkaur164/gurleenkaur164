@@ -52,7 +52,7 @@
 ##  Achievements
 -  Saturnalia Hackathon 2024 (Runner-up)
 -  National Winner – Toycathon (Govt. of India)
--  400+ LeetCode problems solved
+-  450+ LeetCode problems solved
 
 
 
