@@ -1,15 +1,15 @@
 # Hi, I'm Gurleen Kaur 👋
 
  B.E. Electronics & Computer Engineering @ Thapar  
- AI/ML Enthusiast | Future Product Manager  
- Building cool stuff with LLMs & Machine Learning  
+ Building scalable systems |AI/ML Enthusiast | Future Product Manager  
+ Love to engineer cool stuff 
 
 
 
 ##  About Me
--  Exploring **LLMs, Agentic AI & Multimodal Systems**
--  Love working on **ML, NLP & Data-driven applications**
--  Solved **400+ LeetCode problems**
+-  Exploring **Web development, Agentic AI & Multimodal Systems**
+-  Love working on **ML & Data-driven applications**
+-  Solved **500+ LeetCode problems**
 -  Strong in **DSA, OS & Backend Systems**
 
 
