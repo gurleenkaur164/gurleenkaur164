@@ -1,7 +1,7 @@
 # Hi, I'm Gurleen Kaur 👋
 
  B.E. Electronics & Computer Engineering @ Thapar  
- Building scalable systems |AI/ML Enthusiast | Future Product Manager  
+ Building scalable systems |AI/ML Enthusiast | Future Engineer 
  Love to engineer cool stuff 
 
 
