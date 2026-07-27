@@ -33,22 +33,6 @@
 
 
 
-##  Projects
-
-### 🔹 AI Website Guardian
-- Real-time AI system to detect user intent using LLM agents
-
-### 🔹 Debator AI
-- Multi-agent debate system using CrewAI
-
-### 🔹 Career Path Recommender
-- Full-stack app using FastAPI + Streamlit + NLP
-
-### 🔹 Stress Detection System
-- ML model using TF-IDF for stress classification
-
-
-
 ##  Achievements
 -  Saturnalia Hackathon 2024 (Runner-up)
 -  National Winner – Toycathon (Govt. of India)
