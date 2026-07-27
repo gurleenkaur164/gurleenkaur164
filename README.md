@@ -18,7 +18,7 @@ I build agentic AI systems and scalable backends. Currently working on **Adhikaa
 
 - 🔭 Exploring **Agentic AI, Multimodal Systems & RAG pipelines**
 - 💻 Strong in **DSA, OS & Backend Systems**
-- 🧩 Solved **500+ LeetCode** problems
+- 🧩 Solved **700+ LeetCode** problems
 - 🏆 National Winner, **Toycathon (Govt. of India)**
 - 🥈 Runner-up, **Saturnalia Hackathon 2024**
 
